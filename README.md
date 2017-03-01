@@ -1,0 +1,2 @@
+# CollectionViewLandscapeRolling
+collectionView实现横屏无限轮播
